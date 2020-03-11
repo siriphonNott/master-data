@@ -1,4 +1,4 @@
-INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
+INSERT INTO masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
 ('พระบรมมหาราชวัง', 'Phra Borom Maha Ratchawang', 1, '10200'),
 ('วังบูรพาภิรมย์', 'Wang Burapha Phirom', 1, '10200'),
 ('วัดราชบพิธ', 'Wat Ratchabophit', 1, '10200'),
@@ -1315,7 +1315,7 @@ INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, post
 ('บางพลวง', 'Bang Phluang', 181, '25150'),
 ('บางปลาร้า', 'Bang Pla Ra', 181, '25150'),
 ('บางขาม', 'Bang Kham', 181, '25150');
-INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
+INSERT INTO masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
 ('กระทุ่มแพ้ว', 'Krathum Phaeo', 181, '25150'),
 ('ประจันตคาม', 'Prachantakham', 182, '25130'),
 ('เกาะลอย', 'Ko Loi', 182, '25130'),
@@ -2632,7 +2632,7 @@ INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, post
 ('หนองบัวบาน', 'Nong Bua Ban', 331, '36130'),
 ('บ้านขาม', 'Ban Kham', 331, '36130'),
 ('กุดน้ำใส', 'Kut Nam Sai', 331, '36130');
-INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
+INSERT INTO masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
 ('หนองโดน', 'Nong Don', 331, '36130'),
 ('ละหาน', 'Lahan', 331, '36130'),
 ('หนองบัวใหญ่', 'Nong Bua Yai', 331, '36130'),
@@ -3953,7 +3953,7 @@ INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, post
 ('นาแก้ว', 'Na Kaeo', 499, '47230'),
 ('นาตงวัฒนา', 'Na Tong Watthana', 499, '47230'),
 ('บ้านแป้น', 'Ban Paen', 499, '47230');
-INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
+INSERT INTO masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
 ('เชียงสือ', 'Chiang Sue', 499, '47230'),
 ('สร้างค้อ', 'Sang Kho', 500, '47180'),
 ('หลุบเลา', 'Luplao', 500, '47180'),
@@ -5259,7 +5259,7 @@ INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, post
 ('พบพระ', 'Phop Phra', 672, '63160'),
 ('ช่องแคบ', 'Chong Khaep', 672, '63160'),
 ('คีรีราษฎร์', 'Khiri Rat', 672, '63160');
-INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
+INSERT INTO masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
 ('วาเล่ย์', 'Wale', 672, '63160'),
 ('รวมไทยพัฒนา', 'Ruam Thai Phatthana', 672, '63160'),
 ('อุ้มผาง', 'Um Phang', 673, '63170'),
@@ -6540,7 +6540,7 @@ INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, post
 ('คุระ', 'Khu Ra', 814, '82150'),
 ('บางวัน', 'Bang Wan', 814, '82150'),
 ('เกาะพระทอง', 'Ko Phra Thong', 814, '82150');
-INSERT INTO codecube_masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
+INSERT INTO masterdata_subdistricts (title, title_en, district_id, postcode) VALUES
 ('แม่นางขาว', 'Mae Nang Khao', 814, '82150'),
 ('ทับปุด', 'Thap Put', 815, '82180'),
 ('มะรุ่ย', 'Marui', 815, '82180'),

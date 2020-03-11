@@ -1,4 +1,4 @@
-INSERT INTO codecube_masterdata_districts (title, title_en, province_id) VALUES
+INSERT INTO masterdata_districts (title, title_en, province_id) VALUES
 ('พระนคร', 'Phra Nakhon', 1),
 ('ดุสิต', 'Dusit', 1),
 ('หนองจอก', 'Nong Chok', 1),
@@ -623,7 +623,7 @@ INSERT INTO codecube_masterdata_districts (title, title_en, province_id) VALUES
 ('แม่ลาว', 'Mae Lao', 46),
 ('เวียงเชียงรุ้ง', 'Wiang Chiang Rung', 46),
 ('ดอยหลวง', 'Doi Luang', 46);
-INSERT INTO codecube_masterdata_districts (title, title_en, province_id) VALUES
+INSERT INTO masterdata_districts (title, title_en, province_id) VALUES
 ('เมืองแม่ฮ่องสอน', 'Mueang Mae Hong Son', 47),
 ('ขุนยวม', 'Khun Yuam', 47),
 ('ปาย', 'Pai', 47),

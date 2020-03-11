@@ -1,4 +1,4 @@
-INSERT INTO codecube_masterdata_provinces (title,title_en) VALUES
+INSERT INTO masterdata_provinces (title,title_en) VALUES
 ('กรุงเทพมหานคร', 'Bangkok'),
 ('สมุทรปราการ', 'Samut Prakarn'),
 ('นนทบุรี', 'Nonthaburi'),
